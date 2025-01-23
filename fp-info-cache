@@ -1,4 +1,4 @@
-24177970216241941
+24181439411321247
 A4988SETTR-T
 QFN50P500X500X90-29N
 
@@ -98727,6 +98727,20 @@ usb
 0
 11
 11
+myFootprints.pretty-master
+1x5conn
+<B>WR-PHD </B><BR> 2.54mm Pin Header, 5 Pin
+
+0
+5
+5
+myFootprints.pretty-master
+3x1_Pin_Header
+<B>WR-PHD </B><BR> 2.54mm Pin Header, 3 Pin
+
+0
+3
+3
 myFootprints.pretty-master
 Barrier 2x2
 
