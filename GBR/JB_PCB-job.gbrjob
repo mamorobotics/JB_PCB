@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.2-1"
     },
-    "CreationDate": "2024-11-16T17:54:22-05:00"
+    "CreationDate": "2025-03-11T13:02:56-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,8 +14,8 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 66.05,
-      "Y": 102.3
+      "X": 73.8,
+      "Y": 123.55
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -88,24 +88,30 @@
     },
     {
       "Type": "SolderMask",
+      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
+      "Color": "R0G0B0",
+      "Thickness": 1.51,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
+      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {

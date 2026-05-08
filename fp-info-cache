@@ -1,4 +1,4 @@
-24181439411321247
+24186657354761155
 A4988SETTR-T
 QFN50P500X500X90-29N
 
@@ -98735,6 +98735,13 @@ myFootprints.pretty-master
 5
 5
 myFootprints.pretty-master
+1x6Headers
+
+TS-106-G-AA 
+0
+6
+6
+myFootprints.pretty-master
 3x1_Pin_Header
 <B>WR-PHD </B><BR> 2.54mm Pin Header, 3 Pin
 
@@ -98776,6 +98783,20 @@ SS1P3L-M3/84A
 0
 2
 2
+myFootprints.pretty-master
+MATE Logo
+
+
+0
+0
+0
+myFootprints.pretty-master
+MateLogo
+
+
+0
+0
+0
 myFootprints.pretty-master
 NRF24L01
 NRF24L01
